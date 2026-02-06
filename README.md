@@ -2,7 +2,7 @@
 
 > Scan your in-game relics with your phone camera and export them to [relics.pro](https://relics.pro) for build optimization.
 
-**[Try it now](https://petersquall.github.io/elden-ring-nightreign-relic-scanner/)** | Alpha v0.1
+**[Try it now](https://petersquall.github.io/elden-ring-nightreign-relic-scanner/)** | Alpha v0.2
 
 ---
 
