@@ -1,17 +1,18 @@
-const CACHE_NAME = 'relic-scanner-v9';
+const CACHE_NAME = 'relic-scanner-v10';
 const ASSETS = [
-  '/index.html',
-  '/css/style.css',
-  '/js/app.js',
-  '/js/camera.js',
-  '/js/preprocessor.js',
-  '/js/ocr.js',
-  '/js/matcher.js',
-  '/js/effects-db.js',
-  '/js/relics-name-db.js',
-  '/js/relic-manager.js',
-  '/js/exporter.js',
-  '/js/ui.js',
+  './',
+  './index.html',
+  './css/style.css',
+  './js/app.js',
+  './js/camera.js',
+  './js/preprocessor.js',
+  './js/ocr.js',
+  './js/matcher.js',
+  './js/effects-db.js',
+  './js/relics-name-db.js',
+  './js/relic-manager.js',
+  './js/exporter.js',
+  './js/ui.js',
 ];
 
 self.addEventListener('install', (e) => {

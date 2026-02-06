@@ -2,7 +2,7 @@
   "name": "Nightreign Relic Scanner",
   "short_name": "Relic Scanner",
   "description": "Scan Elden Ring: Nightreign relics from TV and export for relics.pro",
-  "start_url": "/index.html",
+  "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a1a2e",
