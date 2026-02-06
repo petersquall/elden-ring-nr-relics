@@ -31,10 +31,43 @@ html, body {
   flex-shrink: 0;
   min-height: 44px;
 }
-.app-header h1 {
-  font-size: 16px;
+.app-logo {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  position: relative;
+}
+.logo-relic {
+  font-size: 17px;
+  font-weight: 800;
   color: #d4a84b;
-  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.logo-scanner {
+  font-size: 17px;
+  font-weight: 300;
+  color: #e0e0e0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-left: 4px;
+}
+.alpha-badge {
+  position: absolute;
+  top: -6px;
+  right: -52px;
+  font-size: 8px;
+  font-weight: 600;
+  color: #1a1a2e;
+  background: #d4a84b;
+  padding: 1px 5px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  line-height: 1.3;
+}
+.app-header .app-logo {
+  margin-right: 50px;
 }
 .header-actions {
   display: flex;
