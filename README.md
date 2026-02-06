@@ -2,7 +2,7 @@
 
 > Scan your in-game relics with your phone camera and export them to [relics.pro](https://relics.pro) for build optimization.
 
-**[Try it now](https://petersquall.github.io/elden-ring-nr-relics/)** | Alpha v0.1
+**[Try it now](https://petersquall.github.io/elden-ring-nightreign-relic-scanner/)** | Alpha v0.1
 
 ---
 
@@ -47,7 +47,7 @@ In Elden Ring: Nightreign, relics are the core of your build. As you collect mor
 
 ## Quick Start
 
-1. Open **[petersquall.github.io/elden-ring-nr-relics](https://petersquall.github.io/elden-ring-nr-relics/)** on your phone
+1. Open **[petersquall.github.io/elden-ring-nightreign-relic-scanner](https://petersquall.github.io/elden-ring-nightreign-relic-scanner/)** on your phone
 2. Tap **Scan** and allow camera access
 3. Point your phone at a relic's effect list on your TV
 4. Adjust the crop box to frame the effects text
@@ -106,7 +106,7 @@ Built during the Nightreign launch window when managing 50+ relics became a real
 
 ## Contributing
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/petersquall/elden-ring-nr-relics/issues).
+Found a bug or have a suggestion? [Open an issue](https://github.com/petersquall/elden-ring-nightreign-relic-scanner/issues).
 
 ## License
 
